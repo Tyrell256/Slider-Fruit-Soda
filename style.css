@@ -13,6 +13,7 @@ header{
     font-size: large;
     position: relative; 
     z-index: 1;
+    color: #eee;
 }
 header ul{
     padding: 0;
